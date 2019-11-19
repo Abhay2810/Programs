@@ -159,9 +159,24 @@ factorial=factorial*b;
 
 printf("Factorial:%d\n",factorial);
 
-}
-
+}```
+```
 OUTPUT
+Enter the initial and ending no of tables:4
+6
+Enter the initial and ending sequence no of tables:3
+7
+4*3=12
+4*4=16
+4*5=20
+4*6=24
+4*7=28
+Entered no is odd
+6*3=18
+6*4=24
+6*5=30
+6*6=36
+6*7=42
 ```
 ## 6 To convert fahrenheit to celcius
 ```
@@ -648,5 +663,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTk0MTM1MiwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTEwMTg2NzUzMTksLTQ5MTk0MTM1MiwtMT
+U2MDEzMjY4Nl19
 -->
