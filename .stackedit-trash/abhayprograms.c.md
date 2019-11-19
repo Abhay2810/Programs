@@ -360,7 +360,7 @@ for(i=1;i<=b;i++)
 
 }}
 ```
-## 13
+## 13 To find table
 ```
 #include<stdio.h>
 
@@ -383,44 +383,6 @@ for
 for
 
 (i=1;i<=10;i++)
-
-{
-
-printf("%d*%d=%d\n",n,i,n*i);
-
-}
-
-}
-
-}
-```
-## 15
-```
-#include<stdio.h>
-
-void main()
-
-{
-
-int i,n,a,b,k,p;
-
-printf("Enter the initial and ending no of tables:");
-
-scanf("%d%d",&a,&b);
-
-printf("Enter the initial and ending no of tables:");
-
-scanf("%d%d",&k,&p);
-
-for
-
-(n=a;n<=b;n++)
-
-{
-
-for
-
-(i=k;i<=p;i++)
 
 {
 
@@ -677,6 +639,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcxNTY4NDMsLTE1NjAxMzI2ODZdfQ
-==
+eyJoaXN0b3J5IjpbMTk0MDkxNTgyLC0xNTYwMTMyNjg2XX0=
 -->
