@@ -482,7 +482,7 @@ int main()
    return 0;
 }
 ```
-## 18 To find whether no is positu
+## 18 To find whether no is positive,negative or zero
 ```
 #include<stdio.h>
 void main()
@@ -506,7 +506,7 @@ printf("No is negative");}
 }        
 }
 ```
-## 21
+## 19 Use of Puts
 ```
 #include<stdio.h>
 int main()
@@ -515,7 +515,7 @@ puts(" Hello Friends");
 puts("Chai Pilo Friends ");
 }
 ```
-## 22
+## 20 To find square of
 ```
 #include<stdio.h>
 int main()
@@ -639,5 +639,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzU1MTIwMSwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbMTk0NzYzMzg5NywtMTU2MDEzMjY4Nl19
 -->
