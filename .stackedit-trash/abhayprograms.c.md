@@ -293,8 +293,8 @@ printf("No is Prime\n");
 
 }
 ```
-## 10 To find prime no between 1 to 100
 ```
+## 10 To find prime no between 1 to 100
 #include<stdio.h>
 
 int main(){
@@ -331,8 +331,9 @@ return 0;
 
 }
 ```
-## 11 Use of switch
 ```
+## 11 Use of switch
+
 #include<stdio.h>
 
 void main()
@@ -682,7 +683,7 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMDI3OTE0LC03NDgyMjU0MDIsLTExMz
-A2ODI2NjEsLTEwMTg2NzUzMTksLTQ5MTk0MTM1MiwtMTU2MDEz
-MjY4Nl19
+eyJoaXN0b3J5IjpbMjExODI3NjIyNCwtNzQ4MjI1NDAyLC0xMT
+MwNjgyNjYxLC0xMDE4Njc1MzE5LC00OTE5NDEzNTIsLTE1NjAx
+MzI2ODZdfQ==
 -->
