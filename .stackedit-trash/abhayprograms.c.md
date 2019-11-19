@@ -30,7 +30,8 @@ printf("No is Positive\n");
 
 }
 OUTPUT
-
+Enter your No:4
+No is Positive
 ```
 ## 2  To check no is even or odd
 ```
@@ -42,7 +43,7 @@ void main()
 
 int a;
 
-printf("Enter no:",a);
+printf("Enter no:");
 
 scanf("%d",&a);
 
@@ -55,6 +56,8 @@ else
 {printf("No is odd\n");}
 
 }
+
+OUTPUT 
 ```
 ## 3 even table
 ```
@@ -641,5 +644,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTQzNzk4MywtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbMjcxNTg5NDY5LC0xNTYwMTMyNjg2XX0=
 -->
