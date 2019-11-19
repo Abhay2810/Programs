@@ -30,7 +30,7 @@ printf("No is Positive\n");
 
 }
 ```
-## 2 
+## 2  To check no is even or odd
 ```
 #include <stdio.h>
 
@@ -96,7 +96,7 @@ else {printf("Entered no is odd\n");}
 
 }}
 ```
-## 4
+## 4 To calculate experience
 ```
 #include<stdio.h>
 
@@ -126,7 +126,7 @@ printf("Total experience:%d\n",c);
 
 }
 ```
-## 5
+## 5 To find 
 ```
 #include<stdio.h>
 
@@ -705,6 +705,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI1Njc1NzMsLTE1NjAxMzI2ODZdfQ
-==
+eyJoaXN0b3J5IjpbMTA5NTY3ODk2MCwtMTU2MDEzMjY4Nl19
 -->
