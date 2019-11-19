@@ -568,7 +568,7 @@ return 0;
 
 }
 ```
-## 23
+## 23 Array
 ```
 #include<stdio.h>
 int main()
@@ -584,7 +584,7 @@ if(k[i])
 }
 }
 ```
-## 26
+## 24 Greater Array
 ```
 #include<stdio.h>
 int main()
@@ -608,7 +608,7 @@ printf("%d\n",a[c]);
 return 0;
 }
 ```
-## 27
+## 25 To print Face
 ```
 #include<stdio.h>
 int face();
@@ -639,6 +639,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQwNDQ4MDMsLTE1NjAxMzI2ODZdfQ
+eyJoaXN0b3J5IjpbLTE3NDE2MzExMTgsLTE1NjAxMzI2ODZdfQ
 ==
 -->
