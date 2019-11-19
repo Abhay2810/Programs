@@ -595,6 +595,26 @@ return 0;
 
 }
 ```
+## 23
+```
+#include<stdio.h>
+void main()
+{     
+        int i,j;
+for
+(i=1;i<=4;i++)
+{
+for
+(j=1;j<=i;j++)
+{                                                                   
+printf("*");
+}
+printf("\n");
+}
+}
+```
+## 24
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAxMzI2ODZdfQ==
+eyJoaXN0b3J5IjpbLTc2NDMyMTY4MCwtMTU2MDEzMjY4Nl19
 -->
