@@ -515,7 +515,7 @@ puts(" Hello Friends");
 puts("Chai Pilo Friends ");
 }
 ```
-## 20 To find square of
+## 20 To find square of no
 ```
 #include<stdio.h>
 int main()
@@ -529,7 +529,7 @@ return 0;
 
 }
 ```
-## 23
+## 21 To print * sign 
 ```
 #include<stdio.h>
 void main()
@@ -547,7 +547,7 @@ printf("\n");
 }
 }
 ```
-## 24
+## 22 To print Pascal Triangle
 ```
 #include<stdio.h>
 int main()
@@ -568,7 +568,7 @@ return 0;
 
 }
 ```
-## 25
+## 23
 ```
 #include<stdio.h>
 int main()
@@ -639,5 +639,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzYzMzg5NywtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTE4NTQwNDQ4MDMsLTE1NjAxMzI2ODZdfQ
+==
 -->
