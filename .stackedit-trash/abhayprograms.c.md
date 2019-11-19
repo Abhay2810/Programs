@@ -154,9 +154,7 @@ printf("Factorial:%d\n",factorial);
 
 }
 ```
-## 6
-
-## 7
+## 6 To convert fahrenheit to celcius
 ```
 #include <stdio.h>
 
@@ -176,7 +174,7 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 
 }
 ```
-## 8
+## 7 Use 
 ```
 #include<stdio.h>
 
@@ -679,5 +677,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODMyODExOCwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTE5MzAyOTk4NzgsLTE1NjAxMzI2ODZdfQ
+==
 -->
