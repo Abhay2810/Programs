@@ -126,7 +126,7 @@ printf("Total experience:%d\n",c);
 
 }
 ```
-## 5 To find 
+## 5 To find factorial
 ```
 #include<stdio.h>
 
@@ -166,22 +166,7 @@ int a,b,factorial=1;
 
 printf("Enter No:");
 
-scanf("%d",&a);
-
-for
-
-(b=1;b<=a;b++)
-
-{
-
-factorial=factorial*b;
-
-}
-
-printf("Factorial:%d\n",factorial);
-
-}
-```
+sca
 ## 7
 ```
 #include <stdio.h>
@@ -705,5 +690,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTY3ODk2MCwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbNjgyMTM0NDI0LC0xNTYwMTMyNjg2XX0=
 -->
