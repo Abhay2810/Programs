@@ -8,7 +8,7 @@ void main()
 
 int a;
 
-printf("Enter your No:",a);
+printf("Enter your No:");
 
 scanf("%d",&a);
 
@@ -29,6 +29,8 @@ printf("No is Positive\n");
 }
 
 }
+OUTPUT
+
 ```
 ## 2  To check no is even or odd
 ```
@@ -621,7 +623,7 @@ int main()
 face();
 }
 ```
-## 28
+## 26 To find Cube
 ```
 #include<stdio.h>
 int main()
@@ -639,6 +641,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE2MzExMTgsLTE1NjAxMzI2ODZdfQ
-==
+eyJoaXN0b3J5IjpbLTc4MTQzNzk4MywtMTU2MDEzMjY4Nl19
 -->
