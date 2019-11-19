@@ -56,6 +56,7 @@ else
 {printf("No is odd\n");}
 
 }
+```
 
 OUTPUT 
 Enter no:2
@@ -100,7 +101,6 @@ else {printf("Entered no is odd\n");}
 
 }}
 
-OUTPUT
 
 ```
 ## 4 To calculate experience
@@ -663,6 +663,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg2NzUzMTksLTQ5MTk0MTM1MiwtMT
-U2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbODQ1NzM2NDgwLC0xMDE4Njc1MzE5LC00OT
+E5NDEzNTIsLTE1NjAxMzI2ODZdfQ==
 -->
