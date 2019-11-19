@@ -1,4 +1,4 @@
-## program
+##  1 To find whether no is negative or positive
 ```
 #include<stdio.h>
 
@@ -30,7 +30,7 @@ printf("No is Positive\n");
 
 }
 ```
-## 2
+## 2 
 ```
 #include <stdio.h>
 
@@ -705,5 +705,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4MDg0MDc3LC0xNTYwMTMyNjg2XX0=
+eyJoaXN0b3J5IjpbLTE5NTI1Njc1NzMsLTE1NjAxMzI2ODZdfQ
+==
 -->
