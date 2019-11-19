@@ -634,7 +634,23 @@ return 0;
 
 }
 ```
+## 25
+```
+#include<stdio.h>
+int main()
+{
+int i,j,k[10],l;
+printf("Enter Array" );
+for(i=1;i<=10;i++)
+{
+scanf("%d",&k[i]);
+}for(i=1;i<=10;i++)
+{
+if(k[i])
+}
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjgxMzM0MSwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbMTY1OTg0NjczNCwtMTU2MDEzMjY4Nl19
 -->
