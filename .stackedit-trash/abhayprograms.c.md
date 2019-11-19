@@ -155,18 +155,7 @@ printf("Factorial:%d\n",factorial);
 }
 ```
 ## 6
-```
-#include<stdio.h>
 
-void main()
-
-{
-
-int a,b,factorial=1;
-
-printf("Enter No:");
-
-sca
 ## 7
 ```
 #include <stdio.h>
@@ -690,5 +679,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTM0NDI0LC0xNTYwMTMyNjg2XX0=
+eyJoaXN0b3J5IjpbMTk2ODMyODExOCwtMTU2MDEzMjY4Nl19
 -->
