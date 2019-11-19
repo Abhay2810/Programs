@@ -674,9 +674,24 @@ printf("%d\n",a[c]);
 return 0;
 }
 ```
+## 27
+```
+#include<stdio.h>
+int face();
+int face()
+{
+printf("___________________\n|    XXXXXXXXX    |\n|    ( ^   ^ )    |\n|    ( $   $ )    |\n|     \\  |  /     |\n|      \\ = /      |\n|       \\_/       |\n|        |        |\n|     $
+}       
+int main()
+{
+face();
+}
+```
+## 28
+```
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkwODE2MDgsLTE1NjAxMzI2ODZdfQ
-==
+eyJoaXN0b3J5IjpbLTQ1Njg1ODg0MSwtMTU2MDEzMjY4Nl19
 -->
