@@ -689,9 +689,21 @@ face();
 ```
 ## 28
 ```
+#include<stdio.h>
+int main()
 
+{
+        int a,b;
+        printf("Enter Number:",a);
+        scanf("%d",&a);
+        b=a*a*a;
+        printf("Cube of Entered Number:%d\n",b);
+
+return 0;
+}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njg1ODg0MSwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbNDM4MDg0MDc3LC0xNTYwMTMyNjg2XX0=
 -->
