@@ -428,7 +428,7 @@ int main()
    return 0;
 }
 ```
-## 18To fill 
+## 16 To fill Data 
 ```
 #include  <stdio.h>
 int main  ()
@@ -447,7 +447,7 @@ scanf("%s%d\n",&name,&marks);
 printf("%s      %d\n",name,marks);
 }
 ```
-## 19
+## 17 To find array matrix
 ```
 #include <stdio.h>
  
@@ -482,7 +482,7 @@ int main()
    return 0;
 }
 ```
-## 20
+## 18 To find whether no is positu
 ```
 #include<stdio.h>
 void main()
@@ -639,5 +639,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjM4MDA2LC0xNTYwMTMyNjg2XX0=
+eyJoaXN0b3J5IjpbMTE4NzU1MTIwMSwtMTU2MDEzMjY4Nl19
 -->
