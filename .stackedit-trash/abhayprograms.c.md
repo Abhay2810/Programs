@@ -394,7 +394,7 @@ printf("%d*%d=%d\n",n,i,n*i);
 
 }
 ```
-## 16
+## 14 To find sum 
 ```
 #include<stdio.h>
 int main()
@@ -410,7 +410,7 @@ c=a+b;
 return 0;
 }
 ```
-## 17
+## 15 To find Matrix
 ```
 #include<stdio.h>
 int main()
@@ -428,7 +428,7 @@ int main()
    return 0;
 }
 ```
-## 18
+## 18To fill 
 ```
 #include  <stdio.h>
 int main  ()
@@ -639,5 +639,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDkxNTgyLC0xNTYwMTMyNjg2XX0=
+eyJoaXN0b3J5IjpbMTIwNjM4MDA2LC0xNTYwMTMyNjg2XX0=
 -->
