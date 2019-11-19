@@ -338,7 +338,7 @@ break;
 
 }}
 ```
-## 13
+## 12 To find range wise Table
 ```
 #include<stdio.h>
 
@@ -360,7 +360,7 @@ for(i=1;i<=b;i++)
 
 }}
 ```
-## 14
+## 13
 ```
 #include<stdio.h>
 
@@ -677,5 +677,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mjg3NjE5OCwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTE2NDcxNTY4NDMsLTE1NjAxMzI2ODZdfQ
+==
 -->
