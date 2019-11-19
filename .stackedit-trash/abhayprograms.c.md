@@ -650,7 +650,33 @@ if(k[i])
 }
 }
 ```
+## 26
+```
+#include<stdio.h>
+int main()
+{
+      int a[10];
+      int c;
+printf("Enter nos:");
+for(c=1;c<=10;c++)
+{
+scanf("%d",&a[c]);
+}printf("\n");
+    for(c=1;c<=10;c++)
+{
+
+if(a[c]%2==0)
+{
+
+printf("%d\n",a[c]);
+}
+}
+return 0;
+}
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTg0NjczNCwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTIwNTkwODE2MDgsLTE1NjAxMzI2ODZdfQ
+==
 -->
