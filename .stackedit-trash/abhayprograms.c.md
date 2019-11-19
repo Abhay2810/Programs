@@ -99,6 +99,9 @@ printf("%d*%d=%d\n",n,i,n*i);
 else {printf("Entered no is odd\n");}
 
 }}
+
+OUTPUT
+
 ```
 ## 4 To calculate experience
 ```
@@ -157,6 +160,8 @@ factorial=factorial*b;
 printf("Factorial:%d\n",factorial);
 
 }
+
+OUTPUT
 ```
 ## 6 To convert fahrenheit to celcius
 ```
@@ -643,6 +648,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAxMjc1NTYsLTE1NjAxMzI2ODZdfQ
-==
+eyJoaXN0b3J5IjpbLTQ5MTk0MTM1MiwtMTU2MDEzMjY4Nl19
 -->
