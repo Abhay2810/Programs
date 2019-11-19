@@ -70,7 +70,8 @@ void main()
 {
 int m, i,n,a,b,k,p;
 
-printf("Enter the initial and ending no of 
+printf("Enter the initial and ending no of table:");
+scanf("%d%d",&a,&b);
 printf("Enter the initial and ending sequence no of tables:");
 
 scanf("%d%d",&k,&p);
@@ -642,6 +643,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIyOTQ5NjIsLTE1NjAxMzI2ODZdfQ
+eyJoaXN0b3J5IjpbLTE4NDAxMjc1NTYsLTE1NjAxMzI2ODZdfQ
 ==
 -->
