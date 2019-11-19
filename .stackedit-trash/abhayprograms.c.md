@@ -614,7 +614,27 @@ printf("\n");
 }
 ```
 ## 24
+```
+#include<stdio.h>
+int main()
+{
+int i,j;
+for (i=1;i<=4;i++)
+{
+for(j=1;j<=5;j++)
+{
+if(j>=i  && j<=6-i)
+printf("1");
+else 
+printf("0");
+}
+printf("\n");
+}
+return 0;
+
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDMyMTY4MCwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTQ5NjgxMzM0MSwtMTU2MDEzMjY4Nl19
 -->
