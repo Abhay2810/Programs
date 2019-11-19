@@ -174,7 +174,7 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 
 }
 ```
-## 7 Use 
+## 7 Use of function
 ```
 #include<stdio.h>
 
@@ -196,7 +196,7 @@ printf("Hey Tiwari\n");
 
 }
 ```
-## 9
+## 8 Print of college name using function
 ```
 #include<stdio.h>
 
@@ -216,7 +216,7 @@ puts("Guru Nanak Dev Engineering College");
 
 }
 ```
-## 10
+## 9 To find whether no is prime or not
 ```
 #include<stdio.h>
 
@@ -250,7 +250,7 @@ printf("No is Prime\n");
 
 }
 ```
-## 11
+## 1
 ```
 #include<stdio.h>
 
@@ -677,6 +677,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAyOTk4NzgsLTE1NjAxMzI2ODZdfQ
-==
+eyJoaXN0b3J5IjpbMzY1NTMxNDY2LC0xNTYwMTMyNjg2XX0=
 -->
