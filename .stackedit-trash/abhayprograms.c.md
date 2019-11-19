@@ -193,8 +193,9 @@ OUTPUT
 Enter No:6
 Factorial:720
 ```
-## 6 To convert fahrenheit to celcius
 ```
+## 6 To convert fahrenheit to celcius
+
 #include <stdio.h>
 
 void main()
@@ -214,7 +215,6 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 }
 ```
 ## 7 Use of function
-```
 #include<stdio.h>
 
 int A();
@@ -678,6 +678,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA3MDUwOTgsLTExMzA2ODI2NjEsLT
-EwMTg2NzUzMTksLTQ5MTk0MTM1MiwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTc0ODIyNTQwMiwtMTEzMDY4MjY2MSwtMT
+AxODY3NTMxOSwtNDkxOTQxMzUyLC0xNTYwMTMyNjg2XX0=
 -->
