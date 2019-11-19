@@ -29,6 +29,8 @@ printf("No is Positive\n");
 }
 
 }
+```
+```
 OUTPUT
 Enter your No:4
 No is Positive
@@ -57,7 +59,7 @@ else
 
 }
 ```
-
+```
 OUTPUT 
 Enter no:2
 No is even
@@ -100,7 +102,24 @@ printf("%d*%d=%d\n",n,i,n*i);
 else {printf("Entered no is odd\n");}
 
 }}
-
+```
+```
+OUTPUT
+Enter the initial and ending no of tables:4
+6
+Enter the initial and ending sequence no of tables:3
+7
+4*3=12
+4*4=16
+4*5=20
+4*6=24
+4*7=28
+Entered no is odd
+6*3=18
+6*4=24
+6*5=30
+6*6=36
+6*7=42
 
 ```
 ## 4 To calculate experience
@@ -162,21 +181,7 @@ printf("Factorial:%d\n",factorial);
 }```
 ```
 OUTPUT
-Enter the initial and ending no of tables:4
-6
-Enter the initial and ending sequence no of tables:3
-7
-4*3=12
-4*4=16
-4*5=20
-4*6=24
-4*7=28
-Entered no is odd
-6*3=18
-6*4=24
-6*5=30
-6*6=36
-6*7=42
+
 ```
 ## 6 To convert fahrenheit to celcius
 ```
@@ -663,6 +668,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NzM2NDgwLC0xMDE4Njc1MzE5LC00OT
-E5NDEzNTIsLTE1NjAxMzI2ODZdfQ==
+eyJoaXN0b3J5IjpbLTExMzA2ODI2NjEsLTEwMTg2NzUzMTksLT
+Q5MTk0MTM1MiwtMTU2MDEzMjY4Nl19
 -->
