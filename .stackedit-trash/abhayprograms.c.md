@@ -58,6 +58,8 @@ else
 }
 
 OUTPUT 
+Enter no:2
+No is even
 ```
 ## 3 even table
 ```
@@ -66,13 +68,9 @@ OUTPUT
 void main()
 
 {
-
 int m, i,n,a,b,k,p;
 
-printf("Enter the initial and ending no of tables:");
-
-scanf("%d%d",&a,&b);
-
+printf("Enter the initial and ending no of 
 printf("Enter the initial and ending sequence no of tables:");
 
 scanf("%d%d",&k,&p);
@@ -644,5 +642,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTg5NDY5LC0xNTYwMTMyNjg2XX0=
+eyJoaXN0b3J5IjpbLTE1NjIyOTQ5NjIsLTE1NjAxMzI2ODZdfQ
+==
 -->
