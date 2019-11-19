@@ -152,6 +152,15 @@ printf("Total experience:%d\n",c);
 
 }
 ```
+```
+OUTPUT 
+Enter no. of employees:4
+Enter their experience:12
+5
+6
+8
+Total experience:31
+```
 ## 5 To find factorial
 ```
 #include<stdio.h>
@@ -181,7 +190,8 @@ printf("Factorial:%d\n",factorial);
 }```
 ```
 OUTPUT
-
+Enter No:6
+Factorial:720
 ```
 ## 6 To convert fahrenheit to celcius
 ```
@@ -668,6 +678,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA2ODI2NjEsLTEwMTg2NzUzMTksLT
-Q5MTk0MTM1MiwtMTU2MDEzMjY4Nl19
+eyJoaXN0b3J5IjpbLTE3NzA3MDUwOTgsLTExMzA2ODI2NjEsLT
+EwMTg2NzUzMTksLTQ5MTk0MTM1MiwtMTU2MDEzMjY4Nl19
 -->
