@@ -599,7 +599,7 @@ _   _
 |68 81|                                              
  _   _
 ```
-## 16 To Print the data of the Students.
+## 16 To Print
 ```
 #include<stdio.h>
 int main()
