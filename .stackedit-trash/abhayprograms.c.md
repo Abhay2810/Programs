@@ -601,26 +601,24 @@ _   _
 ```
 ## 16 To Print the data of the Students.
 ```
-#include  <stdio.h>
-int main  ()
+#include<stdio.h>
+int main()
 {
-        char name[25];
-        int marks[5],i,p;
-      
-printf("Enter no. of Entry:");
-
-scanf("%d\n",&p);
-printf("Enter Name      Marks\n");
-
-for(i=1;i<p;i++)
+int oddnum,sum=0;
+oddnum=1;
+do
 {
-scanf("%s%d\n",&name,&marks);
-printf("%s      %d\n",name,marks);
+sum=oddnum;
+oddnum=oddnum+2;
+}
+while(oddnum<=50);
+printf("Sum=%d\n",sum);
+return 0;
 }
 ```
 ```
 Output:
-
+Sum=49
 ```
 ## 17 To Find the Sum of Matrix by the Array. 
 ```
@@ -916,70 +914,210 @@ Enter Number:4
 Cube of Entered Number:64
 
 ```
-## 27
+## 27 To Design a code for Fizzbuzz Game. 
 ```
-
-
-```
-```
-Output:
-
-```
-## 28
-```
-
-
-```
-```
-Output:
-
-```
-## 29
-```
-
-
-```
-```
-Output:
-
-```
-## 30
-```
-
+#include<stdio.h>
+int main()
+{
+int a ;
+for
+(a=1;a<=20;a++)
+{
+if( a%15==0)
+{
+printf("fizzbuzz\n");
+}
+if(a%5==0)
+{
+printf("buzz\n");
+}
+if (a%3==0)
+{
+printf("fizz\n");
+}
+else
+{
+printf("%d\n",a);
+}
+}
+return 0;
+}
 
 ```
 ```
 Output:
-
+1
+2
+fizz
+4
+buzz
+5
+fizz
+7
+8
+fizz
+buzz
+10
+11
+fizz
+13
+14
+fizzbuzz
+buzz
+fizz
+16
+17
+fizz
+19
+buzz
+20
 ```
-## 31
+## 28 To Design a Code to whether a Number is Palindrome or not(Using do while loop). 
 ```
+//Code to reverse a no.
 
+#include<stdio.h>
+void main()
+{
+int r=0,rev=0,num,t;
+printf("Enter a no:");
+scanf("%d",&num);
+t=num;
+do
+{
+r=t%10;
+t=t/10;
+rev=(rev*10)+r;
+}
+while(t>0);
+printf("\nReversed Number is:%d\n",rev);
+if(num==rev)
+printf("Number is Palindrome\n");
+else
+printf("Number is not Palindrome\n");
+}
 
 ```
 ```
 Output:
+Enter a no:135
 
+Reversed Number is:531
+Number is not Palindrome
 ```
-## 32
+## 29 A Program to Find the Average of Numbers(Using While loop). 
 ```
-
+#include<stdio.h>
+int main()
+{
+int sum=0,avg,no,i=1,n;
+printf("How many no.s you want to enter:");
+scanf("%d",&n);
+while(i<=n)
+{
+printf("Enter no:");
+scanf("%d",&no);
+sum=sum+no;
+i++;
+}
+avg=sum/n;
+printf("Average:%d\n",avg);
+return 0;
+}
 
 ```
 ```
 Output:
-
-
+How many no.s you want to enter:5
+Enter no:3
+Enter no:56
+Enter no:45
+Enter no:34
+Enter no:6
+Average:28
 ```
-## 
+## 30 Use of For Loop. 
 ```
-
+#include<stdio.h>
+void main()
+{
+        int i;
+for
+ (i=95;i>=80;i--)
+{
+printf("%d\n",i);
+ }
+ }
 
 ```
 ```
 Output:
+./a.out
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+```
+## 31 A Program to Find Sum of Numbers.
+```
+#include<stdio.h>
+void main()
+{
+int a,i,sum=0;
+printf("Enter end no:");
+scanf("%d",&a);
+
+for
+(i=1;i<=a;i++)
+{
+sum=sum+i;
+}
+printf("Sum=%d\n",sum);
+}
 
 ```
+```
+Output:
+Enter end no:12
+Sum=78
+```
+## 32 Design a Code to Find the percentage.
+```
+#include<stdio.h>
+int main()
+
+{
+        int a,b,c;
+        printf("Enter obtained Marks:\nEnter total Marks:\n",a,b);
+        scanf("%d%d",&a,&b);
+        c=a*100/b;
+        printf("Percentage:%d\n",c);
+
+return 0;
+}
+
+```
+```
+Output:
+Enter obtained Marks:
+Enter total Marks:
+424
+450
+Percentage:94
+```
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExODI3NjIyNCwtNzQ4MjI1NDAyLC0xMT
 MwNjgyNjYxLC0xMDE4Njc1MzE5LC00OTE5NDEzNTIsLTE1NjAx
