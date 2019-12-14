@@ -64,7 +64,7 @@ OUTPUT
 Enter no:2
 No is even
 ```
-## 3 even table
+## 3 Even table
 ```
 #include<stdio.h>
 
@@ -296,6 +296,7 @@ printf("No is Prime\n");
 
 }
 ```
+
 ```
 ## 10 To find prime no between 1 to 100
 ```
@@ -335,8 +336,8 @@ return 0;
 
 }
 ```
-```
 
+```
 ## 11 Use of switch
 ```
 #include<stdio.h>
@@ -387,6 +388,7 @@ break;
 
 }}
 ```
+
 ```
 ## 12 To find range wise Table
 ```
@@ -410,6 +412,7 @@ for(i=1;i<=b;i++)
 
 }}
 ```
+
 ```
 ## 13 To find table
 ```
@@ -445,6 +448,7 @@ printf("%d*%d=%d\n",n,i,n*i);
 
 }
 ```
+
 ```
 ## 14 To find sum 
 ```
@@ -462,6 +466,7 @@ c=a+b;
 return 0;
 }
 ```
+
 ```
 ## 15 To find Matrix
 ```
@@ -481,6 +486,7 @@ int main()
    return 0;
 }
 ```
+
 ```
 ## 16 To fill Data 
 ```
@@ -501,8 +507,8 @@ scanf("%s%d\n",&name,&marks);
 printf("%s      %d\n",name,marks);
 }
 ```
-```
 
+```
 ## 17 To find array matrix
 ```
 #include <stdio.h>
@@ -538,6 +544,7 @@ int main()
    return 0;
 }
 ```
+
 ```
 ## 18 To find whether no is positive,negative or zero
 ```
@@ -563,6 +570,7 @@ printf("No is negative");}
 }        
 }
 ```
+
 ```
 ## 19 Use of Puts
 ```
@@ -573,6 +581,7 @@ puts(" Hello Friends");
 puts("Chai Pilo Friends ");
 }
 ```
+
 ```
 ## 20 To find square of no
 ```
@@ -588,6 +597,7 @@ return 0;
 
 }
 ```
+
 ```
 ## 21 To print * sign 
 ```
@@ -607,6 +617,7 @@ printf("\n");
 }
 }
 ```
+
 ```
 ## 22 To print Pascal Triangle
 ```
@@ -629,6 +640,7 @@ return 0;
 
 }
 ```
+
 ```
 ## 23 Array
 ```
@@ -646,6 +658,7 @@ if(k[i])
 }
 }
 ```
+
 ```
 ## 24 Greater Array
 ```
@@ -671,6 +684,7 @@ printf("%d\n",a[c]);
 return 0;
 }
 ```
+
 ```
 ## 25 To print Face
 ```
@@ -685,6 +699,7 @@ int main()
 face();
 }
 ```
+
 ```
 ## 26 To find Cube
 ```
