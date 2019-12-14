@@ -1,4 +1,4 @@
-##  1 To find whether no is negative or positive
+##  1 To Find whether Number is Negative or Positive.
 ```
 #include<stdio.h>
 
@@ -35,7 +35,7 @@ OUTPUT
 Enter your No:4
 No is Positive
 ```
-## 2  To check no is even or odd
+## 2  To check no is Even or Odd.
 ```
 #include <stdio.h>
 
@@ -64,7 +64,7 @@ OUTPUT
 Enter no:2
 No is even
 ```
-## 3 Even table
+## 3  To Find Table of Even Number.
 ```
 #include<stdio.h>
 
@@ -122,7 +122,7 @@ Entered no is odd
 6*7=42
 
 ```
-## 4 To calculate experience
+## 4 To Calculate Experience of the Employees. 
 ```
 #include<stdio.h>
 
@@ -161,7 +161,7 @@ Enter their experience:12
 8
 Total experience:31
 ```
-## 5 To find factorial
+## 5 To Find the Factorial of a Number.
 ```
 #include<stdio.h>
 
@@ -194,7 +194,7 @@ OUTPUT
 Enter No:6
 Factorial:720
 ```
-## 6 To convert fahrenheit to celcius
+## 6 To Convert Fahrenheit to Celcius.
 ```
 #include <stdio.h>
 
@@ -216,10 +216,11 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 ```
 ```
 Output:
-
+ Enter Temperature in Fahrenheit:78
+Temperature in Centigrade Scale:25.555555
 ```
 
-## 7 Use of function
+## 7 Use of Function.
 ```
 #include<stdio.h>
 
@@ -243,9 +244,9 @@ printf("Hey Tiwari\n");
 ```
 ```
 Output:
-
+Hey Tiwari 
 ```
-## 8 Print of college name using function
+## 8  To Print the College name using Function.
 ```
 #include<stdio.h>
 
@@ -268,9 +269,9 @@ puts("Guru Nanak Dev Engineering College");
 ```
 Output:
 
-
+Guru Nanak Dev Engineering College 
 ```
-## 9 To find whether no is prime or not
+## 9 To Find whether Number is Prime or not.
 ```
 #include<stdio.h>
 
@@ -306,9 +307,10 @@ printf("No is Prime\n");
 ```
 ```
 Output:
-
+Enter no 6
+No is not prime
 ```
-## 10 To find prime no between 1 to 100
+## 10 To Find Prime Number  between 1 to 100.
 ```
 #include<stdio.h>
 
@@ -348,9 +350,34 @@ return 0;
 ```
 ```
 Output:
-
+The prime numbers between 1 and 100 
+      2
+      3
+      5
+      7
+      11                                                              
+      13
+      17
+      19
+      23
+      29
+      31
+      37
+      41
+      43
+      47
+      53
+      59
+      61                                                              
+      67                                                              
+      71
+      73                                                              
+      79
+      83
+      89                                                               
+      97
 ```
-## 11 Use of switch
+## 11 To Design a Program by the Use of Switch Statement. 
 ```
 #include<stdio.h>
 
@@ -402,9 +429,13 @@ break;
 ```
 ```
 Output:
-
+Enter an operator(+,-,/,%,*):+                                  
+Enter two numbers:
+56
+45
+The addition is:101
 ```
-## 12 To find range wise Table
+## 12 To find Table till the Desired Range. 
 ```
 #include<stdio.h>
 
@@ -427,10 +458,17 @@ for(i=1;i<=b;i++)
 }}
 ```
 ```
-Output:
-
+Output:     
+Enter the starting  of which table you want to print:3
+Till what range you want table6
+3*1=3                                                           
+3*2=6                                                           
+3*3=9
+3*4=12
+3*5=15                                                          
+3*6=18
 ```
-## 13 To find table
+## 13 To Print the Tables of Desired Numbers. 
 ```
 #include<stdio.h>
 
@@ -466,9 +504,40 @@ printf("%d*%d=%d\n",n,i,n*i);
 ```
 ```
 Output:
-
+Enter the initial and ending no of tables:4
+6
+4*1=4
+4*2=8
+4*3=12
+4*4=16
+4*5=20
+4*6=24
+4*7=28
+4*8=32
+4*9=36
+4*10=40
+5*1=5
+5*2=10
+5*3=15
+5*4=20
+5*5=25
+5*6=30
+5*7=35
+5*8=40
+5*9=45
+5*10=50
+6*1=6
+6*2=12
+6*3=18
+6*4=24
+6*5=30
+6*6=36
+6*7=42
+6*8=48
+6*9=54
+6*10=60
 ```
-## 14 To find sum 
+## 14 To Find the Addition of the two Number. 
 ```
 #include<stdio.h>
 int main()
@@ -476,7 +545,8 @@ int main()
 int a;          
 int b;                   
 int c;                                                        
-        printf("Enter first no-");                            scanf("%d",&a);
+        printf("Enter first no-");                            
+scanf("%d",&a);
         printf("Enter second no-");
 scanf("%d",&b);
 c=a+b;
@@ -486,9 +556,11 @@ return 0;
 ```
 ```
 Output:
-
+Enter first no-5
+Enter second no-43                                     
+5 + 43 = 48
 ```
-## 15 To find Matrix
+## 15 To Find the Sum of the Matrix(Home Made Method). 
 ```
 #include<stdio.h>
 int main()
@@ -497,7 +569,8 @@ int main()
     int a,b,c,d,p,q,r,s,k,l,m,n;
   printf("_   __   _\n|a b||p q|\n|c d||r s|\n_   __   _\n");
   scanf("%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&p,&q,&r,&s);          
-                                                                k =a*p+b*r ;
+                                                                
+  k =a*p+b*r ;
   l =a*q+b*s ;
   m =c*p+d*r ;
   n =c*q+d*s ;
@@ -508,9 +581,25 @@ int main()
 ```
 ```
 Output:
-
+/1921002$ ./a.out
+_   __   _                                            
+|a b||p q|
+|c d||r s|
+_   __   _                                            
+4
+5
+6
+7
+2
+3
+8
+9
+_   _
+|48 57|
+|68 81|                                              
+ _   _
 ```
-## 16 To fill Data 
+## 16 To Print the data of the Students.
 ```
 #include  <stdio.h>
 int main  ()
@@ -533,7 +622,7 @@ printf("%s      %d\n",name,marks);
 Output:
 
 ```
-## 17 To find array matrix
+## 17 To Find the Sum of Matrix by the Array. 
 ```
 #include <stdio.h>
  
@@ -570,9 +659,23 @@ int main()
 ```
 ```
 Output:
-
+Enter the number of rows and columns of matrix        
+2                                                     2
+Enter the elements of first matrix
+3                                                     
+4
+5
+6
+Enter the elements of second matrix
+6
+7                                                     
+8
+5
+Sum of entered matrices:-
+9       11                                            
+13      11
 ```
-## 18 To find whether no is positive,negative or zero
+## 18 To Find whether Number is Positive,Negative or Zero.
 ```
 #include<stdio.h>
 void main()
@@ -598,9 +701,10 @@ printf("No is negative");}
 ```
 ```
 Output:
-
+Enter Your No:7
+No is positive
 ```
-## 19 Use of Puts
+## 19 Use of Puts in C Programming.
 ```
 #include<stdio.h>
 int main()
@@ -611,9 +715,10 @@ puts("Chai Pilo Friends ");
 ```
 ```
 Output:
-
+Hello Friends 
+Chai Pilo Friends 
 ```
-## 20 To find square of no
+## 20 To Find the Square of a Number. 
 ```
 #include<stdio.h>
 int main()
@@ -629,9 +734,10 @@ return 0;
 ```
 ```
 Output:
-
+Enter Number:6
+Square of Entered Number:36
 ```
-## 21 To print * sign 
+## 21 To Print * Sign in a Desirable Method. 
 ```
 #include<stdio.h>
 void main()
@@ -651,9 +757,12 @@ printf("\n");
 ```
 ```
 Output:
-
+*
+**
+***
+****
 ```
-## 22 To print Pascal Triangle
+## 22 To Print Pascal Triangle with * Sign. 
 ```
 #include<stdio.h>
 int main()
@@ -676,29 +785,20 @@ return 0;
 ```
 ```
 Output:
+11111
+01110
+00100
+00000
+```
+## 23  To Find Greater Array among the Others.
+```
 
-```
-## 23 Array
-```
-#include<stdio.h>
-int main()
-{
-int i,j,k[10],l;
-printf("Enter Array" );
-for(i=1;i<=10;i++)
-{
-scanf("%d",&k[i]);
-}for(i=1;i<=10;i++)
-{
-if(k[i])
-}
-}
 ```
 ```
 Output:
 
 ```
-## 24 Greater Array
+## 24 Even  Array
 ```
 #include<stdio.h>
 int main()
@@ -726,7 +826,7 @@ return 0;
 Otput:
 
 ```
-## 25 To print Face
+## 25 To Print Face Structure in C programming. 
 ```
 #include<stdio.h>
 int face();
@@ -743,7 +843,7 @@ face();
 Output:
 
 ```
-## 26 To find Cube
+## 26 To find Cube of a Number. 
 ```
 #include<stdio.h>
 int main()
