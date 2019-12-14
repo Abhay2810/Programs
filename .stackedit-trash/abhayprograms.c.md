@@ -916,6 +916,70 @@ Enter Number:4
 Cube of Entered Number:64
 
 ```
+## 27
+```
+
+
+```
+```
+Output:
+
+```
+## 28
+```
+
+
+```
+```
+Output:
+
+```
+## 29
+```
+
+
+```
+```
+Output:
+
+```
+## 30
+```
+
+
+```
+```
+Output:
+
+```
+## 31
+```
+
+
+```
+```
+Output:
+
+```
+## 32
+```
+
+
+```
+```
+Output:
+
+
+```
+## 
+```
+
+
+```
+```
+Output:
+
+```
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExODI3NjIyNCwtNzQ4MjI1NDAyLC0xMT
 MwNjgyNjYxLC0xMDE4Njc1MzE5LC00OTE5NDEzNTIsLTE1NjAx
