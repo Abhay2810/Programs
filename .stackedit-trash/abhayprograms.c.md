@@ -214,7 +214,6 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 
 }
 ```
-
 ```
 ## 7 Use of function
 ```
@@ -238,7 +237,6 @@ printf("Hey Tiwari\n");
 
 }
 ```
-
 ```
 ## 8 Print of college name using function
 ```
