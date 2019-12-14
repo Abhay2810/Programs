@@ -187,12 +187,12 @@ factorial=factorial*b;
 
 printf("Factorial:%d\n",factorial);
 
-}```
+}
+```
 ```
 OUTPUT
 Enter No:6
 Factorial:720
-```
 ```
 ## 6 To convert fahrenheit to celcius
 ```
@@ -214,9 +214,11 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 
 }
 ```
+```
 Output:
 
 ```
+
 ## 7 Use of function
 ```
 #include<stdio.h>
@@ -238,6 +240,7 @@ int A()
 printf("Hey Tiwari\n");
 
 }
+```
 ```
 Output:
 
@@ -261,6 +264,7 @@ int a()
 puts("Guru Nanak Dev Engineering College");
 
 }
+```
 ```
 Output:
 
@@ -299,6 +303,7 @@ else
 printf("No is Prime\n");
 
 }
+```
 ```
 Output:
 
@@ -340,6 +345,7 @@ printf("\n %d ",numbr);
 return 0;
 
 }
+```
 ```
 Output:
 
@@ -394,6 +400,7 @@ break;
 
 }}
 ```
+```
 Output:
 
 ```
@@ -418,6 +425,7 @@ for(i=1;i<=b;i++)
 {printf("%d*%d=%d\n",a,i,a*i);
 
 }}
+```
 ```
 Output:
 
@@ -456,6 +464,7 @@ printf("%d*%d=%d\n",n,i,n*i);
 
 }
 ```
+```
 Output:
 
 ```
@@ -474,6 +483,7 @@ c=a+b;
     printf(" %d + %d = %d\n",a,b,c);
 return 0;
 }
+```
 ```
 Output:
 
@@ -496,6 +506,7 @@ int main()
    return 0;
 }
 ```
+```
 Output:
 
 ```
@@ -517,6 +528,7 @@ for(i=1;i<p;i++)
 scanf("%s%d\n",&name,&marks);
 printf("%s      %d\n",name,marks);
 }
+```
 ```
 Output:
 
@@ -556,6 +568,7 @@ int main()
    return 0;
 }
 ```
+```
 Output:
 
 ```
@@ -583,6 +596,7 @@ printf("No is negative");}
 }        
 }
 ```
+```
 Output:
 
 ```
@@ -594,6 +608,7 @@ int main()
 puts(" Hello Friends");
 puts("Chai Pilo Friends ");
 }
+```
 ```
 Output:
 
@@ -611,6 +626,7 @@ int main()
 return 0;
 
 }
+```
 ```
 Output:
 
@@ -632,6 +648,7 @@ printf("*");
 printf("\n");
 }
 }
+```
 ```
 Output:
 
@@ -657,6 +674,7 @@ return 0;
 
 }
 ```
+```
 Output:
 
 ```
@@ -675,6 +693,7 @@ scanf("%d",&k[i]);
 if(k[i])
 }
 }
+```
 ```
 Output:
 
@@ -703,6 +722,7 @@ printf("%d\n",a[c]);
 return 0;
 }
 ```
+```
 Otput:
 
 ```
@@ -718,6 +738,7 @@ int main()
 {
 face();
 }
+```
 ```
 Output:
 
@@ -737,10 +758,11 @@ int main()
 return 0;
 }
 ```
+```
 Output:
 
 
-
+```
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExODI3NjIyNCwtNzQ4MjI1NDAyLC0xMT
 MwNjgyNjYxLC0xMDE4Njc1MzE5LC00OTE5NDEzNTIsLTE1NjAx
