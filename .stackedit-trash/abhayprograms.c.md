@@ -214,6 +214,8 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 
 }
 ```
+Output:
+
 ```
 ## 7 Use of function
 ```
@@ -237,6 +239,8 @@ printf("Hey Tiwari\n");
 
 }
 ```
+Output:
+
 ```
 ## 8 Print of college name using function
 ```
@@ -258,6 +262,8 @@ puts("Guru Nanak Dev Engineering College");
 
 }
 ```
+Output:
+
 
 ```
 ## 9 To find whether no is prime or not
@@ -294,6 +300,7 @@ printf("No is Prime\n");
 
 }
 ```
+Output:
 
 ```
 ## 10 To find prime no between 1 to 100
@@ -334,6 +341,7 @@ return 0;
 
 }
 ```
+Output:
 
 ```
 ## 11 Use of switch
@@ -386,6 +394,7 @@ break;
 
 }}
 ```
+Output:
 
 ```
 ## 12 To find range wise Table
@@ -410,6 +419,7 @@ for(i=1;i<=b;i++)
 
 }}
 ```
+Output:
 
 ```
 ## 13 To find table
@@ -446,6 +456,7 @@ printf("%d*%d=%d\n",n,i,n*i);
 
 }
 ```
+Output:
 
 ```
 ## 14 To find sum 
@@ -464,6 +475,7 @@ c=a+b;
 return 0;
 }
 ```
+Output:
 
 ```
 ## 15 To find Matrix
@@ -484,6 +496,7 @@ int main()
    return 0;
 }
 ```
+Output:
 
 ```
 ## 16 To fill Data 
@@ -505,6 +518,7 @@ scanf("%s%d\n",&name,&marks);
 printf("%s      %d\n",name,marks);
 }
 ```
+Output:
 
 ```
 ## 17 To find array matrix
@@ -542,6 +556,7 @@ int main()
    return 0;
 }
 ```
+Output:
 
 ```
 ## 18 To find whether no is positive,negative or zero
@@ -568,6 +583,7 @@ printf("No is negative");}
 }        
 }
 ```
+Output:
 
 ```
 ## 19 Use of Puts
@@ -579,6 +595,7 @@ puts(" Hello Friends");
 puts("Chai Pilo Friends ");
 }
 ```
+Output:
 
 ```
 ## 20 To find square of no
@@ -595,6 +612,7 @@ return 0;
 
 }
 ```
+Output:
 
 ```
 ## 21 To print * sign 
@@ -615,6 +633,7 @@ printf("\n");
 }
 }
 ```
+Output:
 
 ```
 ## 22 To print Pascal Triangle
@@ -638,6 +657,7 @@ return 0;
 
 }
 ```
+Output:
 
 ```
 ## 23 Array
@@ -656,6 +676,7 @@ if(k[i])
 }
 }
 ```
+Output:
 
 ```
 ## 24 Greater Array
@@ -682,6 +703,7 @@ printf("%d\n",a[c]);
 return 0;
 }
 ```
+Otput:
 
 ```
 ## 25 To print Face
@@ -697,6 +719,7 @@ int main()
 face();
 }
 ```
+Output:
 
 ```
 ## 26 To find Cube
@@ -714,6 +737,8 @@ int main()
 return 0;
 }
 ```
+Output:
+
 
 
 <!--stackedit_data:
