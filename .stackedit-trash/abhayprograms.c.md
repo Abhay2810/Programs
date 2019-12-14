@@ -195,7 +195,7 @@ Factorial:720
 ```
 ```
 ## 6 To convert fahrenheit to celcius
-
+```
 #include <stdio.h>
 
 void main()
@@ -217,6 +217,7 @@ printf("Temperature in Centigrade Scale:%f\n",C);
 
 ```
 ## 7 Use of function
+```
 #include<stdio.h>
 
 int A();
@@ -240,6 +241,7 @@ printf("Hey Tiwari\n");
 
 ```
 ## 8 Print of college name using function
+```
 #include<stdio.h>
 
 int main()
@@ -261,6 +263,7 @@ puts("Guru Nanak Dev Engineering College");
 
 ```
 ## 9 To find whether no is prime or not
+```
 #include<stdio.h>
 
 void main()
@@ -295,6 +298,7 @@ printf("No is Prime\n");
 ```
 ```
 ## 10 To find prime no between 1 to 100
+```
 #include<stdio.h>
 
 int main(){
@@ -333,7 +337,7 @@ return 0;
 ```
 ```
 ## 11 Use of switch
-
+```
 #include<stdio.h>
 
 void main()
