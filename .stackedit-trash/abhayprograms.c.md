@@ -792,11 +792,39 @@ Output:
 ```
 ## 23  To Find Greater Array among the Others.
 ```
+#include<stdio.h>                                                     int main()
+{
+int i,j,k[10],l, max;
+printf("Enter Array\n" );
+for(i=1;i<=10;i++)
+{
+scanf("%d",&k[i]);
+}
+max=0;
+for(i=1;i<=10;i++)
+ {
+if(k[i]>max)
+max=k[i];
+}
 
+printf("Greatest Array:%d\n",max);
+return 0;
+}
 ```
 ```
 Output:
-
+Enter Array
+45
+34
+567
+345
+234
+56
+456
+45
+888
+997
+Greatest Array:997
 ```
 ## 24 Even  Array
 ```
@@ -824,7 +852,22 @@ return 0;
 ```
 ```
 Otput:
+Enter nos:
+3
+45
+56
+67
+78
+89
+98
+43
+34
+35
 
+56
+78
+98
+34
 ```
 ## 25 To Print Face Structure in C programming. 
 ```
@@ -841,7 +884,16 @@ face();
 ```
 ```
 Output:
-
+___________________
+|    XXXXXXXXX    |
+|    ( ^   ^ )    |
+|    ( $   $ )    |
+|     \  |  /     |
+|      \ = /      |
+|       \_/       |
+|        |        |
+|        |        |
+|________ ________|
 ```
 ## 26 To find Cube of a Number. 
 ```
@@ -860,7 +912,8 @@ return 0;
 ```
 ```
 Output:
-
+Enter Number:4
+Cube of Entered Number:64
 
 ```
 <!--stackedit_data:
