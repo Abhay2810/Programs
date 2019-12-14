@@ -336,6 +336,7 @@ return 0;
 }
 ```
 ```
+
 ## 11 Use of switch
 ```
 #include<stdio.h>
@@ -386,6 +387,7 @@ break;
 
 }}
 ```
+```
 ## 12 To find range wise Table
 ```
 #include<stdio.h>
@@ -407,6 +409,7 @@ for(i=1;i<=b;i++)
 {printf("%d*%d=%d\n",a,i,a*i);
 
 }}
+```
 ```
 ## 13 To find table
 ```
@@ -442,6 +445,7 @@ printf("%d*%d=%d\n",n,i,n*i);
 
 }
 ```
+```
 ## 14 To find sum 
 ```
 #include<stdio.h>
@@ -457,6 +461,7 @@ c=a+b;
     printf(" %d + %d = %d\n",a,b,c);
 return 0;
 }
+```
 ```
 ## 15 To find Matrix
 ```
@@ -475,6 +480,7 @@ int main()
 
    return 0;
 }
+```
 ```
 ## 16 To fill Data 
 ```
@@ -495,6 +501,8 @@ scanf("%s%d\n",&name,&marks);
 printf("%s      %d\n",name,marks);
 }
 ```
+```
+
 ## 17 To find array matrix
 ```
 #include <stdio.h>
@@ -530,6 +538,7 @@ int main()
    return 0;
 }
 ```
+```
 ## 18 To find whether no is positive,negative or zero
 ```
 #include<stdio.h>
@@ -554,6 +563,7 @@ printf("No is negative");}
 }        
 }
 ```
+```
 ## 19 Use of Puts
 ```
 #include<stdio.h>
@@ -562,6 +572,7 @@ int main()
 puts(" Hello Friends");
 puts("Chai Pilo Friends ");
 }
+```
 ```
 ## 20 To find square of no
 ```
@@ -576,6 +587,7 @@ int main()
 return 0;
 
 }
+```
 ```
 ## 21 To print * sign 
 ```
@@ -594,6 +606,7 @@ printf("*");
 printf("\n");
 }
 }
+```
 ```
 ## 22 To print Pascal Triangle
 ```
@@ -616,6 +629,7 @@ return 0;
 
 }
 ```
+```
 ## 23 Array
 ```
 #include<stdio.h>
@@ -631,6 +645,7 @@ scanf("%d",&k[i]);
 if(k[i])
 }
 }
+```
 ```
 ## 24 Greater Array
 ```
@@ -656,6 +671,7 @@ printf("%d\n",a[c]);
 return 0;
 }
 ```
+```
 ## 25 To print Face
 ```
 #include<stdio.h>
@@ -668,6 +684,7 @@ int main()
 {
 face();
 }
+```
 ```
 ## 26 To find Cube
 ```
