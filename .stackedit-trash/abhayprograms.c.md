@@ -1,6 +1,5 @@
 **
-# Programming for Problem Solving Practical Book
-##   (Guru Nanak Dev Engineering College) 
+# Programming for Problem Solving Practical Book(Guru Nanak Dev Engineering College) 
 ## Submitted to : Professor Ranjodh Kaur
 ## Submitted by : Abhay Tiwari 
 ## Course : Bachelor of Technology
