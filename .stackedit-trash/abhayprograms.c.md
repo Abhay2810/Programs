@@ -1,13 +1,13 @@
-***
+**
 # Programming for Problem Solving Practical Book
-   (Guru Nanak Dev Engineering College) 
-Submitted to : Professor Ranjodh Kaur
-Submitted by : Abhay Tiwari 
-Course : Bachelor of Technology
-Branch: Information Technology (A1) 
-University Roll No: 1905294
+##   (Guru Nanak Dev Engineering College) 
+## Submitted to : Professor Ranjodh Kaur
+## Submitted by : Abhay Tiwari 
+## Course : Bachelor of Technology
+## Branch: Information Technology (A1) 
+## University Roll No: 1905294
  
-***
+**
 
 ##  1 To Find whether Number is Negative or Positive.
 ```
