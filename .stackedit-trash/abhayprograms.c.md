@@ -232,11 +232,48 @@ Temperature in Centigrade Scale:25.555555
 
 ## 7 To Sort a given list of numbers entered using Bubble Sort. 
 ```
+#include<stdio.h>
+void main()
+{
+int a[20],i,n,j,temp;
+printf("Enter no.of elements:\n");
+scanf("%d",&n);
+printf("\nEnter elements:");
+for(i=0;i<n;i++)
+scanf("%d",&a[i]);
 
+for(i=0;i<n-1;i++)
+for(j=0;j<n-i-1;j++)
+if(a[j]>a[j+1])
+{
+temp=a[j];
+a[j]=a[j+1];
+a[j+1]=temp;
+}
+
+printf("The sorted elements:\n");
+for(i=0;i<n;i++)
+printf("%d\n",a[i]);
+
+}
 ```
 ```
 Output:
 ```
+Enter no.of elements:
+5
+
+Enter elements:34
+56
+67
+45
+12
+The sorted elements:
+12
+34
+45
+56
+67
 ## 8  To Print the College name using Function.
 ```
 #include<stdio.h>
@@ -429,11 +466,47 @@ The addition is:101
 ## 12 To Search an item from a list of numbers using Linear Search. 
 ```
 
+#include<stdio.h>
+void main()
+{
+int a[20],p,i,n,item,loc;
+printf("Enter no of elements:");
+scanf("%d",&n);
+printf("\nEnter nos.:\n");
+for(i=0;i<n;i++)
+scanf("%d",&a[i]);
+printf("\nEnter item to be searched:");
+scanf("%d",&item);
+for(i=0;i<n;i++)
+{
+if(a[i]==item)
 
+{
+loc=i;
+
+p=1;
+break;
+}}
+if(p==1)
+printf("\n %d is present at loc %d\n",item,loc+1);
+else
+printf("\n Item is not present in the list\n");
+}
 ```
 ```
 Output:     
+Enter no of elements:5
 
+Enter nos.:
+8
+6
+45
+23
+67
+
+Enter item to be searched:45
+
+ 45 is present at loc 3
 ```
 ## 13 To Print the Tables of Desired Numbers. 
 ```
