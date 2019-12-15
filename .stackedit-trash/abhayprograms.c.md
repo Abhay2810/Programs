@@ -220,31 +220,12 @@ Output:
 Temperature in Centigrade Scale:25.555555
 ```
 
-## 7 Use of Function.
+## 7 
 ```
-#include<stdio.h>
 
-int A();
-
-int main()
-
-{
-
-A();
-
-}
-
-int A()
-
-{
-
-printf("Hey Tiwari\n");
-
-}
 ```
 ```
 Output:
-Hey Tiwari 
 ```
 ## 8  To Print the College name using Function.
 ```
@@ -435,38 +416,14 @@ Enter two numbers:
 45
 The addition is:101
 ```
-## 12 To find Table till the Desired Range. 
+## 12 To find 
 ```
-#include<stdio.h>
 
-void main()
 
-{int i,a,b;
-
-printf("Enter the of which table you want to print:",a);
-
-scanf("%d",&a);
-
-printf("Till what range you want table",b);
-
-scanf("%d",&b);
-
-for(i=1;i<=b;i++)
-
-{printf("%d*%d=%d\n",a,i,a*i);
-
-}}
 ```
 ```
 Output:     
-Enter the starting  of which table you want to print:3
-Till what range you want table6
-3*1=3                                                           
-3*2=6                                                           
-3*3=9
-3*4=12
-3*5=15                                                          
-3*6=18
+
 ```
 ## 13 To Print the Tables of Desired Numbers. 
 ```
@@ -559,68 +516,9 @@ Output:
 Enter first no-5
 Enter second no-43                                     
 5 + 43 = 48
-```
-## 15 To Find the Sum of the Matrix(Home Made Method). 
-```
-#include<stdio.h>
-int main()
-{
 
-    int a,b,c,d,p,q,r,s,k,l,m,n;
-  printf("_   __   _\n|a b||p q|\n|c d||r s|\n_   __   _\n");
-  scanf("%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&p,&q,&r,&s);          
-                                                                
-  k =a*p+b*r ;
-  l =a*q+b*s ;
-  m =c*p+d*r ;
-  n =c*q+d*s ;
-  printf("_   _\n|%d %d|\n|%d %d|\n_   _\n",k,l,m,n);
-
-   return 0;
-}
 ```
-```
-Output:
-/1921002$ ./a.out
-_   __   _                                            
-|a b||p q|
-|c d||r s|
-_   __   _                                            
-4
-5
-6
-7
-2
-3
-8
-9
-_   _
-|48 57|
-|68 81|                                              
- _   _
-```
-## 16 To Print
-```
-#include<stdio.h>
-int main()
-{
-int oddnum,sum=0;
-oddnum=1;
-do
-{
-sum=oddnum;
-oddnum=oddnum+2;
-}
-while(oddnum<=50);
-printf("Sum=%d\n",sum);
-return 0;
-}
-```
-```
-Output:
-Sum=49
-```
-## 17 To Find the Sum of Matrix by the Array. 
+## 15 To Find the Sum of Matrix by the Array. 
 ```
 #include <stdio.h>
  
@@ -673,7 +571,7 @@ Sum of entered matrices:-
 9       11                                            
 13      11
 ```
-## 18 To Find whether Number is Positive,Negative or Zero.
+## 16 To Find whether Number is Positive,Negative or Zero.
 ```
 #include<stdio.h>
 void main()
@@ -702,21 +600,7 @@ Output:
 Enter Your No:7
 No is positive
 ```
-## 19 Use of Puts in C Programming.
-```
-#include<stdio.h>
-int main()
-{
-puts(" Hello Friends");
-puts("Chai Pilo Friends ");
-}
-```
-```
-Output:
-Hello Friends 
-Chai Pilo Friends 
-```
-## 20 To Find the Square of a Number. 
+## 17 To Find the Square of a Number. 
 ```
 #include<stdio.h>
 int main()
@@ -735,7 +619,7 @@ Output:
 Enter Number:6
 Square of Entered Number:36
 ```
-## 21 To Print * Sign in a Desirable Method. 
+## 18 To Print * Sign in a Desirable Method. 
 ```
 #include<stdio.h>
 void main()
@@ -760,7 +644,7 @@ Output:
 ***
 ****
 ```
-## 22 To Print Pascal Triangle with * Sign. 
+## 19 To Print Pascal Triangle with * Sign. 
 ```
 #include<stdio.h>
 int main()
@@ -788,7 +672,7 @@ Output:
 00100
 00000
 ```
-## 23  To Find Greater Array among the Others.
+## 20  To Find Greater Array among the Others.
 ```
 #include<stdio.h>                                                     int main()
 {
@@ -824,7 +708,7 @@ Enter Array
 997
 Greatest Array:997
 ```
-## 24 Even  Array
+## 21 Even  Array
 ```
 #include<stdio.h>
 int main()
@@ -867,7 +751,7 @@ Enter nos:
 98
 34
 ```
-## 25 To Print Face Structure in C programming. 
+## 22 To Print Face Structure in C programming. 
 ```
 #include<stdio.h>
 int face();
@@ -893,7 +777,7 @@ ___________________
 |        |        |
 |________ ________|
 ```
-## 26 To find Cube of a Number. 
+## 23 To find Cube of a Number. 
 ```
 #include<stdio.h>
 int main()
@@ -914,7 +798,7 @@ Enter Number:4
 Cube of Entered Number:64
 
 ```
-## 27 To Design a code for Fizzbuzz Game. 
+## 24 To Design a code for Fizzbuzz Game. 
 ```
 #include<stdio.h>
 int main()
@@ -972,7 +856,7 @@ fizz
 buzz
 20
 ```
-## 28 To Design a Code to whether a Number is Palindrome or not(Using do while loop). 
+## 25 To Design a Code to whether a Number is Palindrome or not(Using do while loop). 
 ```
 //Code to reverse a no.
 
@@ -1005,7 +889,7 @@ Enter a no:135
 Reversed Number is:531
 Number is not Palindrome
 ```
-## 29 A Program to Find the Average of Numbers(Using While loop). 
+## 26 A Program to Find the Average of Numbers(Using While loop). 
 ```
 #include<stdio.h>
 int main()
@@ -1035,65 +919,9 @@ Enter no:45
 Enter no:34
 Enter no:6
 Average:28
-```
-## 30 Use of For Loop. 
-```
-#include<stdio.h>
-void main()
-{
-        int i;
-for
- (i=95;i>=80;i--)
-{
-printf("%d\n",i);
- }
- }
 
 ```
-```
-Output:
-./a.out
-95
-94
-93
-92
-91
-90
-89
-88
-87
-86
-85
-84
-83
-82
-81
-80
-```
-## 31 A Program to Find Sum of Numbers.
-```
-#include<stdio.h>
-void main()
-{
-int a,i,sum=0;
-printf("Enter end no:");
-scanf("%d",&a);
-
-for
-(i=1;i<=a;i++)
-{
-sum=sum+i;
-}
-printf("Sum=%d\n",sum);
-}
-
-```
-```
-Output:
-Enter end no:12
-Sum=78
-```
-## 32 Design a Code to Find the percentage.
+## 27 Design a Code to Find the percentage.
 ```
 #include<stdio.h>
 int main()
@@ -1117,6 +945,12 @@ Enter total Marks:
 450
 Percentage:94
 ```
+Submitted to:Professor Ranjodh Kaur
+Submitted by: Abhay Tiwari 
+Course: Bachelor of Technology 
+Branch: Information Technology (A1) 
+University Roll No:1905294
+College: Guru Nanak Dev Engineering College 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExODI3NjIyNCwtNzQ4MjI1NDAyLC0xMT
