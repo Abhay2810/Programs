@@ -1,6 +1,12 @@
 ***
 # Programming for Problem Solving Practical Book
-
+   (Guru Nanak Dev Engineering College) 
+Submitted to : Professor Ranjodh Kaur
+Submitted by : Abhay Tiwari 
+Course : Bachelor of Technology
+Branch: Information Technology (A1) 
+University Roll No: 1905294
+ 
 ***
 
 ##  1 To Find whether Number is Negative or Positive.
@@ -950,12 +956,7 @@ Enter total Marks:
 450
 Percentage:94
 ```
-Submitted to:Professor Ranjodh Kaur
-Submitted by: Abhay Tiwari 
-Course: Bachelor of Technology 
-Branch: Information Technology (A1) 
-University Roll No:1905294
-College: Guru Nanak Dev Engineering College 
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExODI3NjIyNCwtNzQ4MjI1NDAyLC0xMT
