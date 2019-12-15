@@ -230,7 +230,7 @@ Output:
 Temperature in Centigrade Scale:25.555555
 ```
 
-## 7 
+## 7 To Sort a given list of numbers entered using Bubble Sort. 
 ```
 
 ```
@@ -426,7 +426,7 @@ Enter two numbers:
 45
 The addition is:101
 ```
-## 12 To find 
+## 12 To Search an item from a list of numbers using Linear Search. 
 ```
 
 
